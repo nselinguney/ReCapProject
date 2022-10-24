@@ -4,9 +4,9 @@ C:\Users\Selin\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Dat
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
-C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Selin\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
